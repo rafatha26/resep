@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://img.freepik.com/premium-vector/set-madura-illustration-hand-drawn-indonesian-cultures-background_588166-246.jpg")
+
+}
+
+.blocks {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.533);
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
